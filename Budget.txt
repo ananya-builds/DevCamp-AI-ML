@@ -1,0 +1,84 @@
+
+---- January Budget Summary ----
+Income = 100000
+Total expenses = 27000
+Remaining money = 73000
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- February Budget Summary ----
+Income = 100000
+Total expenses = 28000
+Remaining money = 72000
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- March Budget Summary ----
+Income = 100000
+Total expenses = 32000
+Remaining money = 68000
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- April Budget Summary ----
+Income = 100000
+Total expenses = 34500
+Remaining money = 65500
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- May Budget Summary ----
+Income = 100000
+Total expenses = 36500
+Remaining money = 63500
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- June Budget Summary ----
+Income = 100000
+Total expenses = 39500
+Remaining money = 60500
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- July Budget Summary ----
+Income = 100000
+Total expenses = 42500
+Remaining money = 57500
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- August Budget Summary ----
+Income = 100000
+Total expenses = 38000
+Remaining money = 62000
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- September Budget Summary ----
+Income = 100000
+Total expenses = 42000
+Remaining money = 58000
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- October Budget Summary ----
+Income = 100000
+Total expenses = 45000
+Remaining money = 55000
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- November Budget Summary ----
+Income = 100000
+Total expenses = 50000
+Remaining money = 50000
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
+
+---- December Budget Summary ----
+Income = 100000
+Total expenses = 51500
+Remaining money = 48500
+
+Good job! You have a balanced budget. Keep tracking regularly to maintain financial stability.
