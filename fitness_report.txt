@@ -1,0 +1,11 @@
+
+===== Personal Fitness Data Analysis =====
+
+Average Steps: 10417
+Average Distance (Km): 7.58
+Average Sleep Hours: 7.5
+
+Best Day: 2024-01-04 with 15234 steps
+Worst Day: 2024-01-21 with 5876 steps
+
+Trend: Your steps have decreased. Try to stay active.
